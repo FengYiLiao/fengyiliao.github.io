@@ -10,8 +10,9 @@ locale                   : "USA"
 title                    : "Feng-Yi Liao" #/PhD Student
 title_separator          : "-"
 name                     : &name "Feng-Yi Liao"
-description              : &description "personal description"
-url                      : https://fengyiliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : #&description "personal description"
+url                      : https://sites.google.com/ucsd.edu/feng-yiliao?usp=sharing #https://fengyiliao.github.io 
+# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FengYiLiao/fengyiliao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
