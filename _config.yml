@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Feng-Yi Liao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate student interesting in optimization."
+  bio    : "Graduate student interested in optimization."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
