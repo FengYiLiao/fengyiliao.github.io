@@ -3,7 +3,7 @@ permalink: /research/
 #title: "Research"
 ---
 
-Preprint
+
 ======
 - A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles
 **Feng-Yi, Liao** and Yang Zheng.
