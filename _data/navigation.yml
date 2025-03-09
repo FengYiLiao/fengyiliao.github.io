@@ -1,8 +1,8 @@
 main:
   - title: "Research"
-    url: /posts/
+    url: /research/
   - title: "Talks"
-    url: /categories/
+    url: /talks/
   #- title: "Tags"
   #  url: /tags/
   #- title: "About"
