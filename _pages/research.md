@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-#title: "Preprint"
+title: "Preprint"
 classes: wide
 ---
 
