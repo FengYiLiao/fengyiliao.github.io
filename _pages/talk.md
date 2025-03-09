@@ -7,7 +7,7 @@ author_profile: true
 
 
 Spectral Bundle Methods for Primal and Dual Semidefinite Programs
-at INFORMS Optimization Society 																							  March. 2024
+at INFORMS Optimization Society 																		March. 2024
 at UCSD Optimization and Data Science Seminar 																			        Nov. 2023
 at INFORMS Annual Meeting 																							      October. 2023
 

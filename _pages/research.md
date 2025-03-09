@@ -1,14 +1,14 @@
 ---
 permalink: /research/
-title: "Research"
+#title: "Research"
 ---
 
 
-Prepirnt
+Preprint
 ======
-A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles
+- A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles
 **Feng-Yi, Liao** and Yang Zheng.
-An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs  [Code]
+- An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs  [Code]
 **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng.
 
 
