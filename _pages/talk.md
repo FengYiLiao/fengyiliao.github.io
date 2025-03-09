@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 #layout: categories
-permalink: /talk/
+permalink: /talks/
 #author_profile: true
 classes: wide
 ---
