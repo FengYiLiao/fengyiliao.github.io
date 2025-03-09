@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Preprint"
 classes: wide
-author_profile: false
+author_profile: true
 ---
 
 - A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles

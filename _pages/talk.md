@@ -2,7 +2,7 @@
 title: "Talks"
 #layout: categories
 permalink: /talks/
-#author_profile: true
+author_profile: true
 classes: wide
 ---
 
