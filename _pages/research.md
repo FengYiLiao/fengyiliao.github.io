@@ -1,11 +1,9 @@
 ---
 permalink: /research/
-#title: "Research"
+#title: "Preprint"
 classes: wide
 ---
 
-Preprint
-=====
 - A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles
 **Feng-Yi, Liao** and Yang Zheng.
 - An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs  [Code]
@@ -13,7 +11,7 @@ Preprint
 
 
 Conference paper
-=====
+======
 - Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence.                             
 **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng.     NeurIPS, 2024
 - Error bounds, pl condition, and quadratic growth for weakly convex functions, and linear convergences of proximal point methods.      
