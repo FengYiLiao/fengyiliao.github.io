@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-Spectral Bundle Methods for Primal and Dual Semidefinite Programs
+[Spectral Bundle Methods for Primal and Dual Semidefinite Programs](https://fengyiliao.github.io/2024-IOS-Liao.pdf)
 - at INFORMS Optimization Society 																		March. 2024
 - at UCSD Optimization and Data Science Seminar 										                                          Nov. 2023
 - at INFORMS Annual Meeting 														    October. 2023
