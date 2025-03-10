@@ -17,7 +17,7 @@ Research Interests
 Updates
 ======
 
-- [Feb. 2025] Check out our new work [Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence.](https://proceedings.neurips.cc/paper_files/paper/2024/file/480eb35745feb11c9120b666f640893e-Paper-Conference.pdf)                    
+- [Feb. 2025] Check out our new work [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles.](https://arxiv.org/pdf/2502.08835)                    
 
 - Our paper on [Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence](https://arxiv.org/pdf/2410.22683) has been accepted to NeurIPS 2024. In this paper, we analyze the error bound condition for semidefinite programs (SDPs) from the perspective of exact penalty functions, and show linear convergence of the primal iterate of the Augmented Lagrangian method for SDPs.
 
