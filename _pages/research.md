@@ -14,8 +14,8 @@ author_profile: true
 Conference paper
 ======
 - [Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence.](https://proceedings.neurips.cc/paper_files/paper/2024/file/480eb35745feb11c9120b666f640893e-Paper-Conference.pdf)                             
-**Feng-Yi, Liao**, Lijun Ding, and Yang Zheng.      <p align="right">NeurIPS, 2024</p>
+**Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. NeurIPS, 2024.
 - [Error bounds, pl condition, and quadratic growth for weakly convex functions, and linear convergences of proximal point methods.](https://proceedings.mlr.press/v242/liao24a/liao24a.pdf)      
-**Feng-Yi, Liao**, Lijun Ding, and Yang Zheng.     L4DC, 2024
+**Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. L4DC, 2024.
  - [Iterative inner/outer approximations for scalable semidefinite programs using block factor-width-two matrices.](https://ieeexplore.ieee.org/document/9992734)	   
-**Feng-Yi, Liao** and Yang Zheng. 		 CDC, 2022
+**Feng-Yi, Liao** and Yang Zheng. CDC, 2022.
