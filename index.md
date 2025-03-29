@@ -25,7 +25,7 @@ Updates
 functions, and linear convergences of proximal point methods](https://fengyiliao.github.io/files/2024-ISMP-Liao.pdf) at [2024 ISMP conference](https://ismp2024.gerad.ca/).
 
 - Our paper on [Error bounds, PL condition, and quadratic growth for weakly convex
-functions, and linear convergences of proximal point methods](https://arxiv.org/abs/2312.16775) has been accepted for presentation at the 2024 L4DC!
+functions, and linear convergences of proximal point methods](https://proceedings.mlr.press/v242/liao24a/liao24a.pdf) has been accepted for presentation at the 2024 L4DC!
 
 - Presented a talk on [An Overview and Comparison of Spectral Bundle Methods for
 Primal and Dual Semidefinite Programs](https://fengyiliao.github.io/files/2024-IOS-Liao.pdf) at [2024 IOS conference](https://ios2024.rice.edu/).
