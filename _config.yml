@@ -70,11 +70,7 @@ author:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/FengYiLiao"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
-	
+      url: "https://github.com/FengYiLiao"	
 
 footer:
   #links:
