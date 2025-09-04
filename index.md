@@ -8,7 +8,7 @@ classes: wide
 title: Bio
 ---
 
-I am a second year PhD student in Electrical and Computer Engineering (ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
+I am a third year PhD student in Electrical and Computer Engineering (ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
 
 Research Interests
 ======
@@ -16,6 +16,8 @@ Research Interests
 
 Updates
 ======
+
+- [Sep. 2025] Check out our new work [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)
 
 - [Feb. 2025] Check out our new work [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles.](https://arxiv.org/pdf/2502.08835)                    
 

@@ -5,6 +5,8 @@ classes: wide
 author_profile: true
 ---
 
+- [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)   
+**Feng-Yi, Liao** and Yang Zheng.
 - [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles.](https://arxiv.org/pdf/2502.08835)   
 **Feng-Yi, Liao** and Yang Zheng.
 - [An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs.](https://arxiv.org/pdf/2307.07651)    
