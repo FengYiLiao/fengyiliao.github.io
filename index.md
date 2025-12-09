@@ -17,6 +17,8 @@ Research Interests
 Updates
 ======
 
+- [Dec. 2025] Check out our new work [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)
+
 - [Sep. 2025] Check out our new work [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)
 
 - [Feb. 2025] Check out our new work [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles.](https://arxiv.org/pdf/2502.08835)                    
