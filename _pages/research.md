@@ -5,13 +5,17 @@ classes: wide
 author_profile: true
 ---
 
+- [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)   
+**Feng-Yi, Liao**, Thomas Madden, and Yang Zheng.
 - [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)   
 **Feng-Yi, Liao** and Yang Zheng.
 - [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles.](https://arxiv.org/pdf/2502.08835)   
 **Feng-Yi, Liao** and Yang Zheng.
-- [An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs.](https://arxiv.org/pdf/2307.07651)    
-**Feng-Yi, Liao**, Lijun Ding, and Yang Zheng.
 
+Journal paper
+======
+- [An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs.](https://link.springer.com/article/10.1007/s10589-025-00735-3)    
+**Feng-Yi, Liao**, Lijun Ding, and Yang Zheng.
 
 Conference paper
 ======
