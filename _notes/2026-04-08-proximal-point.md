@@ -4,7 +4,7 @@ date: 2026-04-08
 tags:
   - optimization
   - proximal-point
-excerpt: "A short note on why sharp growth can force finite termination."
+#excerpt: "A short note on why sharp growth can force finite termination."
 ---
 
 ## Main idea
