@@ -1,5 +1,6 @@
 ---
 title: "My First Note"
+permalink: /notes/
 categories:
   - notes
 ---
