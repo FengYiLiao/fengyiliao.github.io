@@ -3,7 +3,7 @@ main:
     url: /research/
   - title: "Talks"
     url: /talks/
-  #- title: "Tags"
-  #  url: /tags/
+  - title: "Note"
+    url: /Note/
   #- title: "About"
   #  url: /about/
