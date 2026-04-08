@@ -7,6 +7,7 @@ classes: wide
 ---
 
 [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles](../files/2025-ICCOPT-Liao.pdf)
+- at INFORMS Optimization Society. March. 2026.
 - at 2025 International Conference on Continuous Optimization (ICCOPT). July. 2025.
 
 [Error bounds, pl condition, and quadratic growth for weakly convex functions, and linear convergences of proximal point methods](../files/2024-ISMP-Liao.pdf)
