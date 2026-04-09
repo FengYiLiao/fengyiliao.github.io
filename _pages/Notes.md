@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 permalink: /notes/
-layout: post
+layout: single
 author_profile: true
 classes: wide
 ---
