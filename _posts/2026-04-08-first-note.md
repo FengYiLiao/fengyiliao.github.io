@@ -1,5 +1,6 @@
 ---
-title: "My First Note"
+title: "My First Note - Proximal Point Method under sharp growth"
+classes: wide
 categories:
   - notes
 ---
