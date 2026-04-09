@@ -114,7 +114,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
 collections:
   notes:
     output: true
