@@ -10,13 +10,31 @@ Specialized Rates Assuming Growth Bounds](https://arxiv.org/pdf/2104.10196).
 
 
 
-We consider the a convex function $f:\mathbb{R}^n \to :\mathbb{R}$ and the proximal point method which follows the update 
+We consider the a convex function $f:\mathbb{R}^n \to :\mathbb{R}$ and the proximal point method (PPM) which follows the update 
 $$
     x_{k+1} = \mathrm{Prox}_{f,\rho}(x_k) := \{\argmin_{y} f(y) + \frac{1}{2\rho}\|y - x_k\|^2 \}, \; \forall k \geq 1,
 $$
 where $\rho > 0$ is fixed.
-We further assume the function $f$ satisfies the sharp groth condition
+We further assume the function $f$ satisfies the sharp growth condition
 $$
     \mu \mathrm{Dist}(x,S) \leq  f(x) - f^\star
 $$
-where $S= \argmin_{s} f(x)$ is the optimal soluiton set.
+where $S= \argmin_{s} f(x)$ is the optimal soluiton set. Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
+
+From the optimality condition of the proximal update, we have 
+$$
+   v_k := (x_k- x_{k+1} )/\rho \in \partial f(x_{k+1}). 
+$$
+By convexity of $f$, we have that 
+$$
+    \|x^\star- x_{k+1} \| \|x_k- x_{k+1} \| /\rho \geq \langle v_k, x^\star- x_{k+1}   \rangle / \rho  \geq f(x_{k+1}) - f^\star   \geq \mu \|x^\star- x_{k+1} \|.
+$$
+Dividing both sides by $\|x^\star- x_{k+1} \|$ yields that the step length is always lower bounded by a constant 
+$$
+    \|x_k- x_{k+1} \|  \geq \rho \mu.  
+$$
+By the defintion of the update, we have that the cost function improvement is also always lower bounded by a constant 
+$$
+    \frac{\rho \mu }{2} \leq \frac{1}{2\rho}\|x_k- x_{k+1} \|^2 \leq f(x_k) - f(x_{k+1}).
+$$
+From here, one can easily argue that the $f(x_k)$ becomes $f^\star$ in finite iterations. 
