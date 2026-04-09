@@ -1,12 +1,12 @@
 ---
 title: "Notes"
 permalink: /notes/
-layout: single
+layout: home
 author_profile: true
 classes: wide
 ---
 
-This is a place for short notes, paper summaries, and technical thoughts.
+<!-- This is a place for short notes, paper summaries, and technical thoughts.
 
 {% assign sorted_notes = site.notes | sort: "date" | reverse %}
 {% for note in sorted_notes %}
@@ -20,4 +20,4 @@ This is a place for short notes, paper summaries, and technical thoughts.
   {% endfor %}
   {% endif %}
 
-{% endfor %}
+{% endfor %} -->
