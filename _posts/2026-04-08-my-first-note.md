@@ -32,10 +32,10 @@ $$
 where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
 
 
-> **_Theorem_** For any accuracy $$\epsilon \geq 0$$, the PPM applied to a convex function satisfying sharp growhth is able to find the true solution in at most $$\frac{f(x_0) - f^\star}{\frac{\rho \mu }{2}}$$ iterations.
+> **_Theorem._** For any accuracy $$\epsilon \geq 0$$, the PPM applied to a convex function satisfying sharp growhth is able to find the true solution in at most $$\frac{f(x_0) - f^\star}{\frac{\rho \mu }{2}}$$ iterations.
 
 
-''' **Proof.**
+**Proof.**
 From the optimality condition of the proximal update, we have 
 $$
 \begin{aligned}
@@ -44,6 +44,7 @@ $$
 $$
 
 By convexity of $$f$$, we have that 
+
 $$
 \begin{aligned}
 \|x^\star- x_{k+1} \| \|x_k- x_{k+1} \| /\rho \geq \langle v_k, x^\star- x_{k+1}   \rangle / \rho  \geq f(x_{k+1}) - f^\star   \geq \mu \|x^\star- x_{k+1} \|.
@@ -51,6 +52,7 @@ $$
 $$
 
 Dividing both sides by $$\|x^\star- x_{k+1} \|$$ yields that the step length is always lower bounded by a constant 
+
 $$
 \begin{aligned}
     \|x_k- x_{k+1} \|  \geq \rho \mu.  
@@ -58,6 +60,7 @@ $$
 $$
 
 By the defintion of the update, we have that the cost function improvement is also always lower bounded by a constant 
+
 $$
 \begin{aligned}
     \frac{\rho \mu }{2} \leq \frac{1}{2\rho}\|x_k- x_{k+1} \|^2 \leq f(x_k) - f(x_{k+1}).
@@ -66,4 +69,6 @@ $$
 
 From here, one can easily argue that the $$f(x_k)$$ becomes $$f^\star$$ in finite iterations.
 
-'''
+
+
+<div class="alert alert-info"><b>Note:</b> This is an info box.</div>

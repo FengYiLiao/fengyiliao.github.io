@@ -1,0 +1,9 @@
+---
+title: "Recaling - Numerical error"
+classes: wide
+published: false
+categories:
+  - notes
+---
+
+These few days, I have been working on some implementation of first-order methods for solving linear programs. I ran into several unexpected numerical issues. 
