@@ -19,12 +19,14 @@ $$
 where $$\rho > 0$$ is fixed.
 
 We further assume the function $$f$$ satisfies the sharp growth condition
+
 $$
 \begin{aligned}
     \mu \mathrm{Dist}(x,S) \leq  f(x) - f^\star
 \end{aligned}    
 $$
-where $$S= \argmin_{s} f(x)$$ is the optimal soluiton set. Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
+
+where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
 
 From the optimality condition of the proximal update, we have 
 $$
