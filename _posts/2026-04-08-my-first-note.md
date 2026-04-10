@@ -10,12 +10,15 @@ Specialized Rates Assuming Growth Bounds](https://arxiv.org/pdf/2104.10196).
 
 
 
+
 We consider the a convex function $$f:\mathbb{R}^n \to :\mathbb{R}$$ and the proximal point method (PPM) which follows the update 
+
 $$
 \begin{aligned}
     x_{k+1} = \mathrm{Prox}_{f,\rho}(x_k) := \{\arg \min_{y} f(y) + \frac{1}{2\rho}\|y - x_k\|^2 \}, \; \forall k \geq 1,
 \end{aligned}
 $$
+
 where $$\rho > 0$$ is fixed.
 
 We further assume the function $$f$$ satisfies the sharp growth condition
@@ -28,6 +31,11 @@ $$
 
 where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
 
+
+> **_Theorem_** For any accuracy $$\epsilon \geq 0$$, the PPM applied to a convex function satisfying sharp growhth is able to find the true solution in at most $$\frac{f(x_0) - f^\star}{\frac{\rho \mu }{2}}$$ iterations.
+
+
+''' **Proof.**
 From the optimality condition of the proximal update, we have 
 $$
 \begin{aligned}
@@ -57,3 +65,5 @@ $$
 $$
 
 From here, one can easily argue that the $$f(x_k)$$ becomes $$f^\star$$ in finite iterations.
+
+'''
