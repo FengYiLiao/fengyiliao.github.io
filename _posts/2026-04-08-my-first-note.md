@@ -69,7 +69,3 @@ $$
 $$
 
 From here, one can easily argue that the $$f(x_k)$$ becomes $$f^\star$$ in finite iterations.
-
-
-
-<div class="alert alert-info"><b>Note:</b> This is an info box.</div>
