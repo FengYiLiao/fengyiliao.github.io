@@ -37,6 +37,7 @@ where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Below, we show that
 
 **Proof.**
 From the optimality condition of the proximal update, we have 
+
 $$
 \begin{aligned}
    v_k := (x_k- x_{k+1} )/\rho \in \partial f(x_{k+1}). 
