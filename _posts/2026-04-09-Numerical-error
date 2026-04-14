@@ -11,6 +11,15 @@ These few days, I have been working on some implementation of first-order method
 Let's consider the linear program in this form
 
 $$
+\begin{align}
+   \{\min_{x} c^\top x  \mid Ax = b, x \geq 0 \}.
+\end{align}
+$$
+
+
+A common thing to do before running an algorithm to solve the problem above is to recale the problem data $$A,b,$$ and $$c$$. This procedure can improve the numerical behavior. Suppose we know ahead that an optimal solution is is bounded as 
+
+$$
 \begin{aligned}
-\end{aligned}
+\begin{aligned}
 $$

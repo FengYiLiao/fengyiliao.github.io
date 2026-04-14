@@ -14,9 +14,9 @@ Specialized Rates Assuming Growth Bounds](https://arxiv.org/pdf/2104.10196).
 We consider the a convex function $$f:\mathbb{R}^n \to :\mathbb{R}$$ and the proximal point method (PPM) which follows the update 
 
 $$
-\begin{aligned}
+\begin{align}
     x_{k+1} = \mathrm{Prox}_{f,\rho}(x_k) := \{\arg \min_{y} f(y) + \frac{1}{2\rho}\|y - x_k\|^2 \}, \; \forall k \geq 1,
-\end{aligned}
+\end{align}
 $$
 
 where $$\rho > 0$$ is fixed.
