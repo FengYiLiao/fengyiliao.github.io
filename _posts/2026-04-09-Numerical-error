@@ -21,5 +21,6 @@ A common thing to do before running an algorithm to solve the problem above is t
 
 $$
 \begin{aligned}
+  x^l \leq  x^\star  \leq x^u  
 \begin{aligned}
 $$
