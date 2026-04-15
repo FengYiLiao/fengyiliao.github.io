@@ -1,8 +1,8 @@
 ---
 title: "My First Note - Proximal Point Method under sharp growth"
 classes: wide
-categories:
-  - notes
+# categories:
+#   - notes
 ---
 
 Hello everyone, thanks for visiting my notes page. I’ve long wanted to write down the things I learn and discover, but I never quite got around to starting—until now. This will be officially my first note post, which is a simple proof about the finite time convergence of the proximal point method for a convex function with sharp growth. The main reference is Appendix A from [General Holder Smooth Convergence Rates Follow From
@@ -31,12 +31,7 @@ $$
 
 where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Let's first see the implication of sharp growth for the magnitude of the subgradient.
 
-> **_Theorem._** Suppose $$f$$ is a convex function that satisfies sharp growth with parameter $$\mu > 0$$. Then it holds that for all $$x \notin S$$, we have 
-$$
-\begin{aligned}
-    \|v\| \geq \mu, \quad \forall v \in \partial f(x).
-\end{aligned}
-$$
+> **_Theorem._** Suppose $$f$$ is a convex function that satisfies sharp growth with parameter $$\mu > 0$$. Then it holds that for all $$x \notin S$$, we have $$\|v\| \geq \mu, \forall v \in \partial f(x).$$
 
 **Proof.**
 From the convex inequality and sharp growth, we have 
