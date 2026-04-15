@@ -29,7 +29,35 @@ $$
 \end{aligned}    
 $$
 
-where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
+where $$S= \arg \min_{s} f(x)$$ is the optimal soluiton set. Let's first see the implication of sharp growth for the magnitude of the subgradient.
+
+> **_Theorem._** Suppose $$f$$ is a convex function that satisfies sharp growth with parameter $$\mu > 0$$. Then it holds that for all $$x \notin S$$, we have 
+$$
+\begin{aligned}
+    \|v\| \geq \mu, \quad \forall v \in \partial f(x).
+\end{aligned}
+$$
+
+**Proof.**
+From the convex inequality and sharp growth, we have 
+
+$$
+\begin{aligned}
+ \mu \|x - x^\star \| \leq  f(x) - f^\star \leq \|v\| \|x - x^\star\|
+\end{aligned}
+$$
+
+which implies 
+
+$$
+\begin{aligned}
+ \mu  \leq \|v\|.
+\end{aligned}
+$$
+
+
+
+ Below, we show that the PPM converges to any accuracy in at most a fixed bounded iteration number. 
 
 
 > **_Theorem._** For any accuracy $$\epsilon \geq 0$$, the PPM applied to a convex function satisfying sharp growhth is able to find the true solution in at most $$\frac{f(x_0) - f^\star}{\frac{\rho \mu }{2}}$$ iterations.
