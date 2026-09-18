@@ -8,7 +8,7 @@ classes: wide
 title: Bio
 ---
 
-I am a third year PhD student in Electrical and Computer Engineering (ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
+I am a fourth-year PhD student in Electrical and Computer Engineering (ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
 
 Research Interests
 ======
@@ -16,6 +16,9 @@ Research Interests
 
 Updates
 ======
+
+- [Sep. 2026] Check out our new work [Revisiting Proximal Bundle Methods: Improved Rates under H ̈older Smoothness](https://arxiv.org/pdf/2609.15806). Proximal bundle mehtods have long been considered difficult to analyze due to its elegant single-loop strucutre. 
+ In this paper, we revisit proximal bundle methods from a double-loop perspective, and show that their convergence rates automatically adapt to different levels of Hölder smoothness, without prior knowledge of the smoothness exponent or careful tuning of the step size. Our analysis is simple and modular. We hope that this perspective makes proximal bundle methods more accessible to a broader audience. 
 
 - [Dec. 2025] Check out our new work [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)
 
