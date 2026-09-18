@@ -5,6 +5,9 @@ classes: wide
 author_profile: true
 ---
 
+- [Revisiting Proximal Bundle Methods: Improved Rates under
+H ̈older Smoothness.](https://arxiv.org/pdf/2609.15806)   
+**Feng-Yi, Liao** and Yang Zheng.
 - [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)   
 **Feng-Yi, Liao**, Thomas Madden, and Yang Zheng.
 - [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)   
