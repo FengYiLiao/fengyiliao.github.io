@@ -20,6 +20,9 @@ Updates
 - [Sep. 2026] Check out our new work [Revisiting Proximal Bundle Methods: Improved Rates under H ̈older Smoothness](https://arxiv.org/pdf/2609.15806). Proximal bundle mehtods have long been considered difficult to analyze due to its elegant single-loop strucutre. 
  In this paper, we revisit proximal bundle methods from a double-loop perspective, and show that their convergence rates automatically adapt to different levels of Hölder smoothness, without prior knowledge of the smoothness exponent or careful tuning of the step size. Our analysis is simple and modular. We hope that this perspective makes proximal bundle methods more accessible to a broader audience. 
 
+- [Sep. 2026] Check out our new work [Weak Convexity and Proximal Bundle Methods for Nonsmooth Policy Optimization in Robust Control](https://arxiv.org/pdf/2609.06202). 
+
+
 - [Dec. 2025] Check out our new work [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)
 
 - [Sep. 2025] Check out our new work [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)
