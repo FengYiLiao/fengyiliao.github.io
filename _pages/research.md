@@ -5,11 +5,10 @@ classes: wide
 author_profile: true
 ---
 
-- [Revisiting Proximal Bundle Methods: Improved Rates under
-H ̈older Smoothness.](https://arxiv.org/pdf/2609.15806)   
+- [Revisiting Proximal Bundle Methods: Improved Rates under H ̈older Smoothness.](https://arxiv.org/pdf/2609.15806)   
 **Feng-Yi, Liao** and Yang Zheng.
-- [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)   
-**Feng-Yi, Liao**, Thomas Madden, and Yang Zheng.
+- [Weak Convexity and Proximal Bundle Methods for Nonsmooth Policy Optimization in Robust Control](https://arxiv.org/pdf/2609.06202)
+Yuto Watanabe, **Feng-Yi, Liao**, and Yang Zheng.
 - [A Proximal Descent Method for Minimizing Weakly Convex Optimization.](https://arxiv.org/pdf/2509.02804)   
 **Feng-Yi, Liao** and Yang Zheng.
 - [A Bundle-based Augmented Lagrangian Framework: Algorithm, Convergence, and Primal-dual Principles.](https://arxiv.org/pdf/2502.08835)   
@@ -22,6 +21,9 @@ Journal paper
 
 Conference paper
 ======
+- [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)   
+**Feng-Yi, Liao**, Thomas Madden, and Yang Zheng. L4DC, 2026.
+
 - [Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence.](https://proceedings.neurips.cc/paper_files/paper/2024/file/480eb35745feb11c9120b666f640893e-Paper-Conference.pdf)                             
 **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. NeurIPS, 2024.
 - [Error bounds, pl condition, and quadratic growth for weakly convex functions, and linear convergences of proximal point methods.](https://proceedings.mlr.press/v242/liao24a/liao24a.pdf)      
