@@ -21,6 +21,9 @@ Journal paper
 
 Conference paper
 ======
+-[Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods](https://arxiv.org/pdf/2509.25633)
+Yuto Watanabe, **Feng-Yi, Liao**, and Yang Zheng. ACC, 2026.
+
 - [An accelerated proximal bundle method for convex optimization.](https://www.arxiv.org/pdf/2512.04523)   
 **Feng-Yi, Liao**, Thomas Madden, and Yang Zheng. L4DC, 2026.
 
