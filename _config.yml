@@ -74,6 +74,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=s9ImRwMAAAAJ&hl=en"
+    - label: "CV"
+      #icon: "fab fa-fw fa-google"
+      url: "files/Feng_Yi_s_CV.pdf"
 
 footer:
   #links:
