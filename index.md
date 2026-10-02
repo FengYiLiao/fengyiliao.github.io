@@ -12,7 +12,7 @@ I am a fourth-year PhD student in Electrical and Computer Engineering (ECE) at t
 
 Research Interests
 ======
-- Optimization
+My research lies in continuous optimization, with a focus on developing principled and efficient algorithms for structured, nonsmooth, and constrained problems. I am broadly interested in understanding how problem geometry, regularity, and computational structure can be exploited to design adaptive optimization methods with strong theoretical guarantees. My work is motivated by applications in control, signal processing, and data science.
 
 Updates
 ======
